@@ -1,5 +1,5 @@
 import {InsertionSort} from "./InsertionSort";
 
-let numbers: number[] = [2, 5, 2646, 2, 4, 2, 51, 51];
+let numbers: number[] = [2,5,1,4,3];
 InsertionSort.insertionSort(numbers);
 console.log(numbers);
